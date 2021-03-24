@@ -6,7 +6,7 @@ Hello! This is the official GitHub page for my smart bike. It includes all .stl 
 ### Project Links
 YouTube video: https://youtu.be/p7DILHsOUxs
 
-Hackster.io Project: https://www.hackster.io/collwentzi/a-not-so-electric-bike-c5cf72
+Hackster.io project: https://www.hackster.io/collwentzi/a-not-so-electric-bike-c5cf72
 
 ### Part List & Bill of Materials
 All parts with links and prices: https://docs.google.com/spreadsheets/d/1KXjvQYsWsdiLC_7eHOatF4nG9RN4skZKcS3ze2MVzUQ/edit?usp=sharing
